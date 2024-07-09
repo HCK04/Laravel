@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test</title>
+    <title>Hello!</title>
 </head>
 <body>
-    <h1>Hello <?php echo $nom?></h1>
-    
+    <h1>Hello world</h1>
+    <p1>This is a test for controllers</p1>
 </body>
 </html>
-
